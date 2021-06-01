@@ -33,7 +33,7 @@
     "url": "https://github.com/macedigital/express-xml-bodyparser/issues"
   },
   "dependencies": {
-    "xml2js": "^0.4.19"
+    "xml2js": "github:jamonkko/node-xml2js#fix-eventemitter-with-old-node"
   },
   "devDependencies": {
     "@types/express-xml-bodyparser": "^0.3.0",
